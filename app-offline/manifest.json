@@ -6,8 +6,8 @@
       "name": "SafeGuard Lite",
       "package": "app.safe_guard_offline.dw.ec",
       "version": {
-        "code": 2,
-        "name": "1.0.2"
+        "code": 1,
+        "name": "1.0.1"
       }
     }
   }
